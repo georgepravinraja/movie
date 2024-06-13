@@ -1,0 +1,59 @@
+
+.movie-images{
+    height: 350px;
+    
+}
+.movies-back{
+    background-color: lightslategray;
+    height: 85vh;
+}
+.viewtitle{
+    height: 550px;
+    width: 100%;
+}
+.viewimg img{
+    height: 450px;
+    width: 400px;
+}
+.vietitle{
+    color: black;
+}
+.viedir{
+    margin-top: 50px;
+    font-size: 30px;
+}
+.vierelease{
+    margin-top: 10px;
+    font-size: 30px; 
+}
+.vieprice{
+    margin-top: 10px;
+    font-size: 30px;  
+}
+.viedes{
+    margin-top: 10px;
+    font-size: 15px;  
+}
+.bookbutton{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.vibutton{
+    background-color: navy;
+    color:white;
+    padding: 13px;
+    border:none;
+    border-radius: 5px;
+}
+.vibutton:hover{
+    background-color:white;
+    color: black;
+}
+.load{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 30px;
+    color: black;
+    background-color: lightslategray;
+}

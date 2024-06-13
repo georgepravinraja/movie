@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+
+.home-title {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  
+  background-size: cover;
+  background-position: center;
+  transition: background-image 0.5s ease-in-out;
+}
+
+.home-title.default-bg {
+  background-image:  url(/public/sp.jpg);
+}
+
+.home-title.logged-in-bg {
+  background-image: url(/public/cap.jpg);
+}
+.ema{
+  display: flex;
+  margin-top: 10px;
+  justify-content: left;
+}
+.input-box{
+  display: flex;
+  justify-content: left;
+  
+}
+#formLoginEmail{
+  background-color: transparent;
+  margin-bottom: 10px;
+  
+}
+#formLoginPassword{
+  background-color: transparent;
+}
+#formSignupUsername{
+  background-color: transparent;
+  margin-top: 10px;
+}
+#formSignupEmail{
+  background-color: transparent;
+  margin-top: 10px;
+  
+}
+#formSignupPassword{
+  background-color: transparent;
+  margin-top: 10px;
+}
+.form-des {
+   color: blue;
+}
+.tex p{
+  
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+  }
+
+
+

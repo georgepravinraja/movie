@@ -1,0 +1,42 @@
+.sign{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.form-group{
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.imag{
+    height: 10vh;
+    width: 30%;
+}
+.signin-container{
+    background-color: lightblue;
+    height: 570px;
+}
+.card1{
+    height: 400px;
+    width: 400px;
+    background-color:black;
+    box-shadow: 10px  5px 20px 10px black;
+
+}
+.form-group1{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+button {
+    background-color: blue;
+    margin-top: 50px;
+   
+}
+.btn5{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,39 @@
+.contact2{
+    margin-top: 100px;
+    color: wheat;
+    text-align: center;
+}
+.footer1{
+    background-color: black;
+    padding-bottom: 5;
+    
+}
+.copy{
+    padding-bottom: 20px;
+    margin-top: 20px;
+    color: wheat
+}
+.contact1{
+    color: wheat;
+    text-align: center;
+}
+h2{
+    color: white;
+
+}
+.fonts i{
+    color: blue;
+    margin-top: 40px;
+    font-size: 20px;
+}
+p{
+    margin-top: -15px;
+}
+.imageplay{
+    width: 180px;
+    margin-top: 120px;
+}
+.gplay{
+    display: flex;
+    justify-content: center;
+}

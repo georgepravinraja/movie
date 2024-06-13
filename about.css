@@ -1,0 +1,32 @@
+
+
+.about-title{
+    background-image:  url(/public/busin.png);
+    background-size: cover;
+    
+    
+    display:flex;
+    
+}
+h2{
+    text-align: center;
+    margin-top: 30px;
+}
+.about-image img{
+    height: 100%;
+    width: 100%;
+    margin-top: 30px;
+    object-fit: cover;
+}
+
+.carou img{
+    height: 280px;
+    padding-bottom: 20px;
+}
+.about-image img {
+    width: 100%;
+    transition: all .3s ease-in-out;
+  }
+  .about-image img:hover   {
+    transform: scale(1.2);
+  }

@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+.section1{
+    background-color: black;
+}
+.section1 h1{
+    text-align: center;
+    color:wheat;
+    
+}
+h2{
+    text-align: center;
+    color:black;
+    
+}
+.textp{
+    text-align: center;
+}
+.fonts h4{
+    text-align: center;
+    color: black;
+}
+.contact1{
+    margin-top: 100px;
+}
+.copy{
+    text-align: center;
+    margin-top: 5px;
+}
+.textq{
+    text-align: center;
+    margin-top: 40px;
+}
+.contac{
+    color: black;
+    margin-top: 80px;
+    padding: 20px;
+    margin-bottom: 60px;
+}
+.btn button{
+    background-color: blue;
+    padding: 15px;
+    border: none;
+    margin-bottom: 20px;
+}
+.theater{
+    height: 10vh;
+    width: 30%;
+}
+.image{
+    height:50vh;
+    width: 85vh;
+    margin-top: 80px;
+}
+.input-contents{
+    padding: 10px;
+}
+.vide{
+    margin-top: 150px;
+    
+}
+h1 {
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    
+    font-style: normal;
+  }
+  
